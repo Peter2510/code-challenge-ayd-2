@@ -1,1 +1,1 @@
-La complejidad del algoritmo implementado es logaritmica, pues depende de la cantidad de letras que contenga cada una de las palabras ingresadas, que tienen como restriccion que sean de la misma longitud.
+La complejidad del algoritmo implementado es O(n2), pues depende de la cantidad de letras que contenga cada una de las palabras ingresadas, que tienen como restriccion que sean de la misma longitud.
